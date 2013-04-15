@@ -22,6 +22,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/galaxysmtd/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/samsung/galaxysmtd/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
     vendor/samsung/galaxysmtd/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
+    vendor/samsung/galaxysmtd/proprietary/modem.bin:modem.bin \
     vendor/samsung/galaxysmtd/proprietary/bin/rild:system/bin/rild \
     vendor/samsung/galaxysmtd/proprietary/vendor/lib/libsensor_yamaha_test.so:system/vendor/lib/libsensor_yamaha_test.so \
     vendor/samsung/galaxysmtd/proprietary/vendor/bin/orientationd:system/vendor/bin/orientationd \
