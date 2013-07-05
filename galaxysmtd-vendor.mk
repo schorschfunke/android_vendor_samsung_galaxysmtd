@@ -14,10 +14,6 @@
 
 # Live wallpaper packages and Themes
 PRODUCT_PACKAGES := \
-    LiveWallpapers \
-    LiveWallpapersPicker \
-    MagicSmokeWallpapers \
-    VisualizationWallpapers \
     librs_jni \
     NSTools
 
