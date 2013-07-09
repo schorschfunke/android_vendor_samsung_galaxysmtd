@@ -15,7 +15,7 @@
 # Live wallpaper packages and Themes
 PRODUCT_PACKAGES := \
     librs_jni \
-    NSTools
+    CATTools
 
 # Pick up overlay for features that depend on non-open-source files
 DEVICE_PACKAGE_OVERLAYS := vendor/samsung/aries-common/overlay
